@@ -1,2 +1,15 @@
 # CSA1385-TOC-SNEGHA
+## C PROGRAM
+## EXPERIMENT 4
+## EXP 4(a)
+
+## OUTPUT 
+## EXP 4(b)
+## OUTPUT
+## EXP 4(c)
+## OUTPUT 
+## EXP 4(d)
+## OUTPUT 
+## EXP 4(e)
+## OUTPUT 
 
